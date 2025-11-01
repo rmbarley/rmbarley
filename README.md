@@ -1,6 +1,9 @@
-# Hi, I'm Ryan
+<h1 align="left">Hi, I'm Ryan</h1>
+<h3 align="left">A fullstack developer and generalist</h3>
 
 ---
+
+[![An image of @rmbarley's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rmbarley)](https://holopin.io/@rmbarley)
 
 ## My Skills
 
@@ -24,17 +27,39 @@
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,go,c)](https://skillicons.dev)
 
-<!--
-**rmbarley/rmbarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rmbarley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rmbarley" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rmbarley&column=-1&rank=-C,-B&margin-w=15&theme=dracula" alt="rmbarley" />
+  </a> 
+</p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rmbarley&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rmbarley&show_icons=true"
+    media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=rmbarley&show_icons=true" />
+</picture>
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rmbarley&layout=compact&langs_count=8&card_width=320&theme=dracula
+          media="(prefers-color-scheme: dark)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmbarley&layout=compact&langs_count=8&card_width=320" />
+  </picture>
+</a>
+
