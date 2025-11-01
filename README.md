@@ -1,29 +1,29 @@
 <h1 align="left">Hi, I'm Ryan</h1>
-<h3 align="left">A fullstack developer and generalist</h3>
+<code align="left">Fullstack developer and generalist</code>
 
 ---
-
-[![An image of @rmbarley's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rmbarley)](https://holopin.io/@rmbarley)
 
 ## My Skills
 
 *In no particular order*
 
-### Advanced: I can lead a team using these in production
+### Advanced: I can lead a team in production using these:
+
 [![Frontend](https://skillicons.dev/icons?i=react,redux,ts,js,html,css,nextjs,astro,cypress,smaterialui)](https://skillicons.dev)
 
 [![Backend](https://skillicons.dev/icons?i=express,nodejs,java,spring,py,postgres,sqlite,mongodb)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=aws,docker,figma,git,github,githubactions)](https://skillicons.dev)
 
-### Proficient: I can comfortably contribute to a project using these
+### Proficient: I can comfortably contribute to a project using these:
+
 [![Frontend](https://skillicons.dev/icons?i=htmx,angular,gatsby,svelte,vue)](https://skillicons.dev)
 
 [![Backend](https://skillicons.dev/icons?i=ruby,fastapi,django,flask,graphql)](https://skillicons.dev)
 
 [![Tools/Misc.](https://skillicons.dev/icons?i=neovim,terraform,r)](https://skillicons.dev)
 
-### Beginner: I can _almost_ write Hello, World without looking anything up
+### Beginner: I can _almost_ write Hello, World without looking anything up:
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,go,c)](https://skillicons.dev)
 
@@ -33,6 +33,8 @@
 </p>
 
 ---
+
+[![An image of @rmbarley's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rmbarley)](https://holopin.io/@rmbarley)
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
